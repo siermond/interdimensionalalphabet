@@ -1,0 +1,12 @@
+{
+  "status": "SCRITTURATO_ONCHAIN",
+  "release": "01_ASHIA",
+  "prayer": "Divine Light Pray #01",
+  "blockNumber": 108,
+  "txHash": "0x4a67_genesis_ashia_first_cross_70_30",
+  "contracts": {
+    "treasury": "0x4A679253410272dd5232B3Ff7cF5dbB88f295319",
+    "nft": "0x7a2088a1bFc9d81c55368AE168C2C02570cB814F"
+  },
+  "reserve_ratio": 168.0
+}

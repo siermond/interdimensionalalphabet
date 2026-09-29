@@ -1,0 +1,27 @@
+{
+  "name": "Timeless Memory #001 \u2014 Ashia Primordial",
+  "description": "Bozzetto Disegno Ricordo forgiato da Nomad Sculpt nel Laboratorio VR di Mirror Mountain. Sigillo di apertura First Cross Reserve.",
+  "image": "ipfs://QmAshiaPrimordialBozzetto01/image.png",
+  "attributes": [
+    {
+      "trait_type": "Letter",
+      "value": "Ashia (01)"
+    },
+    {
+      "trait_type": "Prayer",
+      "value": "Divine Light Pray #01"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "528 Hz"
+    },
+    {
+      "trait_type": "Reserve Anchor",
+      "value": "70% Reserve / 30% Elevation"
+    },
+    {
+      "trait_type": "Material",
+      "value": "GOLD_FIRST_CROSS"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "technicalCategory": "01_ASHIA",
+  "entrySlot": "TASTO_GLB_01",
+  "sourceGlb": "ashia.glb",
+  "formatStandard": "glTF 2.0 Binary (.glb)",
+  "ritualExperience": {
+    "category": "DIVINE_LIGHT_PRAY",
+    "event": "ORDER_POEM",
+    "symbol": "FIRST_CROSS",
+    "vrCinematicSequence": [
+      "01_OSCURITA_VR",
+      "02_ATTIVAZIONE_ORDER_POEM",
+      "03_DISCESA_CROCE_DORATA_DAL_CIELO",
+      "04_FASCIO_DI_LUCE_SQUARCIA_IL_BUIO",
+      "05_APPARIZIONE_SERVANT_OF_HUMANITY",
+      "06_APERTURA_KYBALION"
+    ],
+    "materialPreset": "GOLD_FIRST_CROSS",
+    "frequencyHz": 528
+  },
+  "internalEconomy": {
+    "resource": "$ANGELIC",
+    "activationRequirement": "ANGELIC_INTERNAL_TOKEN",
+    "keypStatus": "SACRED_DISCOVERY_NOT_BUYABLE"
+  },
+  "externalBridge": {
+    "collection": "Timeless Memory",
+    "marketplace": "OpenSea",
+    "currency": "ETH",
+    "targetDestination": "0I_ETH_Seed_Reserve"
+  },
+  "canonicalParameters": {
+    "specificationSplit": "70% Reserve / 30% Elevation",
+    "targetMinReserve": ">= 145%",
+    "attestationMode": "PARAMETRO_CANONICO_DI_PROGETTO_VERIFICA_EFFETTIVA_ONCHAIN"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "technicalCategory": "00_NOME_ENTITA",
+  "entrySlot": "TASTO_GLB_00",
+  "sourceGlb": "modello.glb",
+  "formatStandard": "glTF 2.0 Binary (.glb)",
+  "ritualExperience": {
+    "category": "CATEGORIA_ESPERIENZA",
+    "event": "EVENTO_CANONICO",
+    "symbol": "SIMBOLO_ARMONICO",
+    "vrCinematicSequence": [
+      "01_OSCURITA_VR",
+      "02_ACCENSIONE_FREQUENZA",
+      "03_MANIFESTAZIONE_GEOMETRIA_3D",
+      "04_INTERAZIONE_AVATAR"
+    ],
+    "materialPreset": "GOLD_DIVINE_LIGHT",
+    "frequencyHz": 528
+  },
+  "internalEconomy": {
+    "resource": "$ANGELIC",
+    "activationRequirement": "ANGELIC_INTERNAL_TOKEN",
+    "keypStatus": "SACRED_DISCOVERY_NOT_BUYABLE"
+  },
+  "externalBridge": {
+    "collection": "Timeless Memory",
+    "marketplace": "OpenSea",
+    "currency": "ETH",
+    "targetDestination": "0I_ETH_Seed_Reserve"
+  },
+  "canonicalParameters": {
+    "specificationSplit": "70% Reserve / 30% Elevation",
+    "targetMinReserve": ">= 145%",
+    "attestationMode": "PARAMETRO_CANONICO_DI_PROGETTO_VERIFICA_EFFETTIVA_ONCHAIN"
+  }
+}
